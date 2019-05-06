@@ -1,0 +1,10 @@
+{
+  "name": "segmentino/php-sdk",
+  "type": "library",
+  "description": "Segmentino API Connector Library",
+  "require": {
+    "php": ">=7.0",
+    "ext-curl": "*",
+    "phpunit/phpunit": "^5"
+  }
+}
